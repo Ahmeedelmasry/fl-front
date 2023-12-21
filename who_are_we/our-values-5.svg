@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="88" height="88.394" viewBox="0 0 88 88.394">
+  <g id="Icons_Users_ic-users-confirm" data-name="Icons / Users / ic-users-confirm" transform="translate(0 0.394)">
+    <rect id="Rectangle_399" data-name="Rectangle 399" width="88" height="88" fill="none"/>
+    <g id="ic-users-confirm" transform="translate(9.105 3.606)">
+      <path id="Path_395" data-name="Path 395" d="M3,47.421,5.877,36.932C10.648,19.7,23.214,11,35.779,11" transform="translate(-3 25.494)" fill="none" stroke="#669930" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+      <circle id="Ellipse_131" data-name="Ellipse 131" cx="18.21" cy="18.21" r="18.21" transform="translate(14.568)" fill="none" stroke="#669930" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="8"/>
+      <circle id="Ellipse_132" data-name="Ellipse 132" cx="18.21" cy="18.21" r="18.21" transform="translate(32.779 43.778)" fill="none" stroke="#669930" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+      <path id="Path_396" data-name="Path 396" d="M14.87,22.325l5.281,7.029L31.842,16.57" transform="translate(28.362 40.21)" fill="none" stroke="#669930" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+    </g>
+  </g>
+</svg>

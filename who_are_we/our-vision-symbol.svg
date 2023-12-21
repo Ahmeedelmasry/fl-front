@@ -1,0 +1,7 @@
+<svg id="Icons_Actions_ic-actions-view" data-name="Icons / Actions / ic-actions-view" xmlns="http://www.w3.org/2000/svg" width="84" height="84" viewBox="0 0 84 84">
+  <rect id="Rectangle_167" data-name="Rectangle 167" width="84" height="84" fill="none"/>
+  <g id="ic-actions-view" transform="translate(7 20.073)">
+    <path id="Path_43" data-name="Path 43" d="M72,28.059l-9.1,10.08a35,35,0,0,1-51.8,0L2,28.059H2l8.12-9.73a35,35,0,0,1,53.76,0Z" transform="translate(-2 -5.744)" fill="none" stroke="#669930" stroke-linecap="round" stroke-linejoin="round" stroke-width="11.5"/>
+    <ellipse id="Ellipse_21" data-name="Ellipse 21" cx="9.1" cy="8.75" rx="9.1" ry="8.75" transform="translate(26.215 12.304)" fill="none" stroke="#669930" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="11.5"/>
+  </g>
+</svg>

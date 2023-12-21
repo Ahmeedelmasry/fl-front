@@ -1,0 +1,9 @@
+<svg id="Icons_Security_ic-security-locked" data-name="Icons / Security / ic-security-locked" xmlns="http://www.w3.org/2000/svg" width="88" height="88" viewBox="0 0 88 88">
+  <rect id="Rectangle_354" data-name="Rectangle 354" width="88" height="88" fill="none"/>
+  <g id="ic-security-locked" transform="translate(6.902 7.284)">
+    <path id="Rectangle_99" data-name="Rectangle 99" d="M2,0H70.471a2,2,0,0,1,2,2V31.039a22,22,0,0,1-22,22H22a22,22,0,0,1-22-22V2A2,2,0,0,1,2,0Z" transform="translate(0 22.049)" fill="none" stroke="#669930" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+    <circle id="Ellipse_90" data-name="Ellipse 90" cx="9.105" cy="9.105" r="9.105" transform="translate(27.698 32.779)" fill="none" stroke="#669930" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+    <line id="Line_429" data-name="Line 429" y2="10.353" transform="translate(36.235 51.382)" fill="none" stroke="#669930" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+    <path id="Path_322" data-name="Path 322" d="M7,23.853V9.284A7.284,7.284,0,0,1,14.284,2H36.137a7.284,7.284,0,0,1,7.284,7.284V23.853" transform="translate(9.772 -2)" fill="none" stroke="#669930" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+  </g>
+</svg>

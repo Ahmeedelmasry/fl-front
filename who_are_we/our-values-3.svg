@@ -1,0 +1,8 @@
+<svg id="Icons_Security_ic-security-secured-profile" data-name="Icons / Security / ic-security-secured-profile" xmlns="http://www.w3.org/2000/svg" width="88" height="88" viewBox="0 0 88 88">
+  <rect id="Rectangle_357" data-name="Rectangle 357" width="88" height="88" fill="none"/>
+  <g id="ic-security-secured-profile" transform="translate(7.179 5.418)">
+    <path id="Path_325" data-name="Path 325" d="M74.924,26.775a99.7,99.7,0,0,0-.765-11.327,4.188,4.188,0,0,0-4.735-3.642c-1.093,0-3.46.437-6.119.546a26.77,26.77,0,0,1-7.284-.583,27.17,27.17,0,0,1-7.976-4.334,54.307,54.307,0,0,1-5.9-4.808,4.188,4.188,0,0,0-5.718,0,65.844,65.844,0,0,1-5.609,4.7,28.3,28.3,0,0,1-8.013,4.443,29.137,29.137,0,0,1-8.3.656,62.717,62.717,0,0,1-6.811-.656,4.152,4.152,0,0,0-4.735,3.642c-.182,1.748-.656,6.3-.874,11.363A61.7,61.7,0,0,0,3.029,41.89,47.347,47.347,0,0,0,17.051,63.2,116.879,116.879,0,0,0,33.877,76.38a9.652,9.652,0,0,0,10.926,0A116.109,116.109,0,0,0,60.683,63.014,48.44,48.44,0,0,0,73.9,42.035a63.159,63.159,0,0,0,1.02-15.26Z" transform="translate(-1.969 -1.5)" fill="none" stroke="#669930" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+    <path id="Path_326" data-name="Path 326" d="M43.421,36.054V31.21A18.21,18.21,0,0,0,25.21,13h0A18.21,18.21,0,0,0,7,31.21v4.844" transform="translate(11.323 28.883)" fill="none" stroke="#669930" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+    <circle id="Ellipse_93" data-name="Ellipse 93" cx="9.105" cy="9.105" r="9.105" transform="translate(27.428 20.03)" fill="none" stroke="#669930" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+  </g>
+</svg>
