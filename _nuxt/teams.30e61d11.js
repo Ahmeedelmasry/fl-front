@@ -1,0 +1,1 @@
+import{D as t,E as e,G as s,H as o}from"./entry.08c37509.js";const r=t("teamStore",{state:()=>({teams:[]}),actions:{async doGetTeams(){await e.get(`${s().apiURL}/FutureLab/teamMember?lang=${o().lang[0]}`).then(a=>{this.teams=a.data})}}});export{r as t};

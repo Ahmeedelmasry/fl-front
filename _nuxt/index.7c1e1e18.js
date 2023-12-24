@@ -1,0 +1,1 @@
+import{B as n,C as r,ay as c,c as m,b as e,j as a,o as u}from"./entry.08c37509.js";import{V as o}from"./VSkeletonLoader.3b088029.js";const i={class:"main_page"},g={__name:"index",setup(p){const t=n(),s=r();return c(()=>{s.name=="index"&&t.push({name:"en"})}),(_,d)=>(u(),m("div",i,[e(a(o),{type:"image"}),e(a(o),{type:"image"}),e(a(o),{type:"image"})]))}};export{g as default};
